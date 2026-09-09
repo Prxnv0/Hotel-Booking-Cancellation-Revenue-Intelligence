@@ -188,9 +188,11 @@ data/raw/hotel_bookings.csv
 
 Create the folders if they do not already exist:
 
+```text
 data/
 ├── raw/
 └── processed/
+```
 
 ### 2. Install Dependencies
 
